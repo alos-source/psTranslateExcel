@@ -19,3 +19,6 @@ The script translates the texts in the SourceColumn and writes the translations 
 ## Example
 The following example shows how to call the script with the appropriate parameters:
         TranslateExcelColumn -ExcelFilePath "C:\myfile.xlsx" -SheetIndex 1 -SourceColumn "A" -TargetColumn "B" -APIKey "YOUR_API_KEY"
+
+## Note
+Please note that the script uses the DeepL API and therefore may transfer data over the Internet. Make sure that you are aware of what data is being transferred and that you agree with the privacy policy of the DeepL API.
