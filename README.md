@@ -5,6 +5,8 @@ psTranslateExcel is a PowerShell script that automatically performs the translat
 - Microsoft Excel
 - PowerShell 5.0 or higher
 - Internet connection
+- DeepL-Account to get an API-Key
+- API-Key is Configured as an User-Environment-Variable in the Operating System
 
 ## Usage
 The script can be executed through PowerShell. It uses the following parameters:
